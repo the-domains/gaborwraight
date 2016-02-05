@@ -4,8 +4,15 @@
         <description><![CDATA[Technologist / Dad - Sharing inspiration and thoughts]]></description>
         <link>https://thegrid.ai/gaborwraight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 14:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 14:20:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gaborwraight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gabor Wraight]]></title>
+            <description><![CDATA[<article><h1>Gabor Wraight</h1><p>My name ist Gabor Wraight and I am a technologist. Currently working as Design Technology Manager for</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/229dcda3819d2657224e8448c02e30b5f4f11760.jpg"></article>]]></description>
+            <link>https://thegrid.ai/gaborwraight/91210956-56bc-492d-b073-d27e7cd132d4/index.html</link>
+            <guid isPermaLink="false">91210956-56bc-492d-b073-d27e7cd132d4</guid>
+            <pubDate>Fri, 05 Feb 2016 14:20:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mountain Calls]]></title>
             <description><![CDATA[<article><h1>Mountain Calls</h1><p>Filmed in Laax, Switzerland with Ehang Ghost Drone during February 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/376862b71b83edbb99e03086af910111450e7988.jpg"></article>]]></description>
@@ -14,11 +21,11 @@
             <pubDate>Fri, 05 Feb 2016 14:10:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Remix OS is here in Alpha]]></title>
-            <description><![CDATA[<article><h1>Remix OS is here in Alpha</h1><p>Remix OS is a x86 Based Android made for PC. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c84ab1f6d2050f7932d0f97b8700bb851f2ddde.jpg"></article>]]></description>
+            <title><![CDATA[Remix OS Alpha is here]]></title>
+            <description><![CDATA[<article><h1>Remix OS Alpha is here</h1><p>Remix OS is a x86 Based Android made for PC. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c84ab1f6d2050f7932d0f97b8700bb851f2ddde.jpg"></article>]]></description>
             <link>http://www.jide.com/en/remixos-for-pc</link>
             <guid isPermaLink="false">bae45a51-9280-4227-9c7b-e776ecf58dbd</guid>
-            <pubDate>Fri, 05 Feb 2016 14:17:32 GMT</pubDate>
+            <pubDate>Fri, 05 Feb 2016 14:18:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
