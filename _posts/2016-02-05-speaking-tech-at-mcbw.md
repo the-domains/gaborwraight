@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: Disruptive Technology
-datePublished: '2016-02-05T20:43:13.825Z'
-dateModified: '2016-02-05T20:43:02.504Z'
+datePublished: '2016-02-05T20:56:54.793Z'
+dateModified: '2016-02-05T20:56:47.488Z'
 title: Speaking Tech at MCBW
 author: []
+sourcePath: _posts/2016-02-05-speaking-tech-at-mcbw.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-speaking-tech-at-mcbw.md
-published: true
 _type: Blurb
 
 ---
 # Speaking Tech at MCBW
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80268805-8306-47aa-bc38-05a2f5f633bc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f4e1e71-71ae-4ef5-8f49-02d517cc8513.jpg)
