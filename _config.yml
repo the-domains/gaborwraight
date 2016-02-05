@@ -1,0 +1,28 @@
+name: GABORWRAIGHT
+favicon: null
+layout_spectrum: 0.49532751250080764
+typography_spectrum: 0.9713293614331633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.22807789500802755
+  lightness: 0.8509617692325264
+  saturation: 0.512198522919789
+  rhythmicContrast: 0.517522735055536
+purpose: []
