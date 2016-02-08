@@ -16,9 +16,9 @@ keywords:
   - download
   - version
   - compatibility
-description: 'Remix OS for pc is a project to support Remix OS running on your PC. Built on the Android-x86 project, Remix OS for PC unlocks our next phase of development for Remix OS and introduces a whole new range of versatility and compatibility to where and how you can Remix.'
-datePublished: '2016-02-08T20:47:10.186Z'
-dateModified: '2016-02-08T20:46:48.457Z'
+description: Remix OS is the state of the art Android-based operating system.
+datePublished: '2016-02-08T20:48:56.060Z'
+dateModified: '2016-02-08T20:48:52.515Z'
 author: []
 related: []
 app_links: []
