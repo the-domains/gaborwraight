@@ -17,8 +17,8 @@ keywords:
   - version
   - compatibility
 description: 'Remix OS for pc is a project to support Remix OS running on your PC. Built on the Android-x86 project, Remix OS for PC unlocks our next phase of development for Remix OS and introduces a whole new range of versatility and compatibility to where and how you can Remix.'
-datePublished: '2016-02-08T20:46:48.122Z'
-dateModified: '2016-02-08T20:43:52.691Z'
+datePublished: '2016-02-08T20:47:10.186Z'
+dateModified: '2016-02-08T20:46:48.457Z'
 author: []
 related: []
 app_links: []
@@ -39,6 +39,6 @@ Remix OS is a x86 Based Android Operating System built for PC. ![](https://the-g
 
 The guys from [jide.com][0] managed to give Android a Desktop look & feel by adding a file manager, a taskbar, right-click, notification and so much more. You can make a bootable USB stick which you can carry with you to boot whatever computer you want into your Remix OS. If you want you can of course also install it natively on you machine.
 
-I made the effort and managed to now tripple boot my macbook with Mac OS, Windows 10 and Remix OS..
+I made the effort and managed to now tripple boot my Macbook with Mac OS, Windows 10 and Remix OS. I must say I'm utterly impressed by the design and performance of the Operating System. As it is still in Alpha, there are some glitches and some things like e.g. bluetooth, multiple monitors and full force touch trackpad support are still missing. Once these things get implemented I could imagine using the OS fully on a daily basis.
 
 [0]: http://www.jide.com/
