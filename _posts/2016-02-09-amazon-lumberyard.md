@@ -17,20 +17,20 @@ keywords:
   - services
   - apps
 description: "Amazon Lumberyard is integrated with Twitch so that you can build games that engage with the more than 1.7 million monthly broadcasters, and more than 100 million monthly viewers on Twitch. With Amazon Lumberyard's Twitch ChatPlay, you can use a drag-and-drop visual scripting interface to create gameplay features in as little as minutes that let Twitch viewers use chat to directly impact the game they are watching in real-time."
-datePublished: '2016-02-09T12:07:17.896Z'
-dateModified: '2016-02-09T12:07:08.452Z'
+datePublished: '2016-02-09T13:57:27.539Z'
+dateModified: '2016-02-09T13:56:34.160Z'
 author: []
 related: []
 app_links: []
 title: Amazon Lumberyard
+sourcePath: _posts/2016-02-09-amazon-lumberyard.md
+published: true
 authors: []
 publisher:
   name: 'Amazon Web Services, Inc.'
   domain: aws.amazon.com
   url: 'https://aws.amazon.com'
   favicon: 'https://a0.awsstatic.com/main/images/site/favicon.ico'
-sourcePath: _posts/2016-02-09-amazon-lumberyard.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
