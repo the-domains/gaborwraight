@@ -1,5 +1,8 @@
+name: Gabor Wraight
+favicon: null
+layout_spectrum: 0.06989247
+typography_spectrum: 0.941
 title: Technologist / Dad - Sharing thoughts and inspiration
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-73362420-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  rhythmicContrast: 1
   brandColors:
     - '#ffffff'
     - '#282725'
     - '#c0c1c3'
     - '#9c988c'
     - '#3367b3'
+  brandStrength: 0.1875
   lightness: 0.9375
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-73362420-1
-  facebook: null
-name: Gabor Wraight
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.941
-layout_spectrum: 0.06989247
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
