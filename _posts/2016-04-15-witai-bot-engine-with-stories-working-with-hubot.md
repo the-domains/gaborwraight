@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A script to get wit.ai intelligence and natural language understanding into hubot
-datePublished: '2016-04-15T11:40:13.131Z'
-dateModified: '2016-04-15T11:39:59.733Z'
+datePublished: '2016-04-15T11:45:41.252Z'
+dateModified: '2016-04-15T11:40:19.963Z'
 title: Wit.ai Bot Engine with stories working with hubot
 author: []
 sourcePath: _posts/2016-04-15-witai-bot-engine-with-stories-working-with-hubot.md
