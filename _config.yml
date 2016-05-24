@@ -1,6 +1,6 @@
 name: Gabor Wraight
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.30841
 typography_spectrum: 0.941
 title: Technologist / Dad - Sharing thoughts and inspiration
 collections:
@@ -35,7 +35,7 @@ color:
     - '#0b0b15'
     - '#72543c'
   brandStrength: 0.3125
-  lightness: 0.9375
-  saturation: 1
-  rhythmicContrast: 0.25
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
