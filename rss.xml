@@ -4,11 +4,18 @@
         <description><![CDATA[Technologist / Dad - Sharing thoughts and inspiration]]></description>
         <link>http://gaborwraight.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 11:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 17:59:37 GMT</lastBuildDate>
         <atom:link href="http://gaborwraight.de/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Phoenix Design - MCBW 2016]]></title>
+            <description><![CDATA[<article><h1>Phoenix Design - MCBW 2016</h1><p>Mit einer weiteren Dependance setzt Phoenix Design seine Erfolgsgeschichte fort. Seit Herbst 2015 ist das Stuttgarter Designstudio auch in München vertreten. Als Mitglied der Geschäftsführung von Phoenix Design gab Bernd Eigenstetter Einblicke in die Arbeit eines der führenden deutschen Designstudios und sprach über markenprägendes Design. Gabor Wraight, Design Technology Manager, referierte über „Disruptive Technology".</p><img src="http://phoenixdesign.com/mcbw2016/images/02.jpg"></article>]]></description>
+            <link>http://phoenixdesign.com/mcbw2016/</link>
+            <guid isPermaLink="false">f6514c35-7d1e-42ff-9436-1a7c36b8dc04</guid>
+            <pubDate>Tue, 24 May 2016 17:59:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wit.ai Bot Engine with stories working with hubot]]></title>
-            <description><![CDATA[<article><h1>Wit.ai Bot Engine with stories working with hubot</h1><p>A script to get wit.ai intelligence and natural language understanding into hubot</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35192e026fba08221cfd072c72c76345e674b10a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Wit.ai Bot Engine with stories working with hubot</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77dcd0a59d00546051df640765d7584bb78fce04.jpg"></article>]]></description>
             <link>http://gaborwraight.de/witai-bot-engine-with-stories-working-with-hubot/index.html</link>
             <guid isPermaLink="false">0009212d-b698-475b-bfad-5db7936141af</guid>
             <pubDate>Fri, 15 Apr 2016 11:45:41 GMT</pubDate>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Remix OS for PC]]></title>
-            <description><![CDATA[<article><h1>Remix OS for PC</h1><p>Remix OS is a x86 Based Android Operating System built for PC. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/324016d6963642e4c3a90ce4ec0ed71f469d1f0e.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4981c2db-17d1-4c13-ae9a-8dc437526832.png">]]></description>
             <link>http://www.jide.com/en/remixos-for-pc</link>
             <guid isPermaLink="false">53835d9f-82b3-4d5d-be8a-3419b0d585b6</guid>
             <pubDate>Mon, 08 Feb 2016 20:48:56 GMT</pubDate>
