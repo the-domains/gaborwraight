@@ -1,8 +1,30 @@
-name: Gabor Wraight
-favicon: null
-layout_spectrum: 0.28986
 typography_spectrum: 0.941
-title: Technologist / Dad - Sharing thoughts and inspiration
+color:
+  brandColors:
+    - '#ffffff'
+    - '#b2c8dd'
+    - '#5d80a8'
+    - '#0b0b15'
+    - '#72543c'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.75
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.28986
+analytics:
+  google: UA-73362420-1
+  facebook: null
+  twitter: null
+name: Gabor Wraight
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73362420-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#b2c8dd'
-    - '#5d80a8'
-    - '#0b0b15'
-    - '#72543c'
-  brandStrength: 0.5
-  lightness: 0.375
-  saturation: 0.75
-  rhythmicContrast: 0
+title: Technologist / Dad - Sharing thoughts and inspiration
 purpose: []
