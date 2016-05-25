@@ -35,10 +35,10 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=xbZyhd6ZUu8'
 title: Mountain Calls
-datePublished: '2016-02-05T14:10:22.155Z'
-dateModified: '2016-02-05T14:09:48.573Z'
+datePublished: '2016-05-25T07:28:54.160Z'
+dateModified: '2016-05-25T07:28:53.276Z'
 sourcePath: _posts/2016-02-05-mountain-calls.md
-published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
